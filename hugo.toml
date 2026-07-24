@@ -1,5 +1,5 @@
 title = 'LegacyLigan'
-baseURL = "https://legacyligan.se"
+baseURL = "https://www.legacyligan.se"
 theme = 'ananke'
 resourceDir = "../resources"
 
@@ -28,7 +28,7 @@ pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a h
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "Images/Logga 3.webp"
   site_logo = ""
   description = "Legacy varje månad"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -37,7 +37,7 @@ pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a h
   featured_image_class = "cover bg-top"
   # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
   cover_dimming_class = "bg-black-50"
-  recent_posts_number = 4
+  recent_posts_number = 5
 
   custom_css = ["table.css"]
 
